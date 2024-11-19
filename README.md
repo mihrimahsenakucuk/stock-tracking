@@ -7,8 +7,9 @@ http://localhost:8080/products/addProduct
     "stockQuantity": 
   }
 
+
 ---
-http://localhost:8080/orders/placeOrder
+http://localhost:8080/carts/addProductToCarts/1
 
 {
   "product": {
@@ -19,7 +20,5 @@ http://localhost:8080/orders/placeOrder
     "id": 
   }
 }
-
-
 
 
